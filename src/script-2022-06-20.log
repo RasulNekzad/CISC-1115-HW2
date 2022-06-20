@@ -1,0 +1,14 @@
+Script started on 2022-06-20 19:19:05-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="30"]
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[00m$ javac HW2.java
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[00m$ java HW2
+Report completed, file generated: ./report.txt
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[00m$ cat report.txt
+Report from 05-08 to 05-12.
+The total is $110.45
+The tax is $9.66
+The highest price item is #365 at $80.00
+The lowest price item is #892 at $3.00
+]0;rasul@LAPTOP-BV048FS5: /mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[01;32mrasul@LAPTOP-BV048FS5[00m:[01;34m/mnt/c/Users/nekza/OneDrive/Documents/CISC-1115-HW2/src[00m$ exit
+exit
+
+Script done on 2022-06-20 19:19:30-04:00 [COMMAND_EXIT_CODE="0"]
